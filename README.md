@@ -28,8 +28,10 @@ Generar
 ## Bonus
 ---
 * Filtro de de ventas a partir de un parámetro web (Ver Parámetro rut)
-  Ejemplo : https://tableau.redcapital.cl/views/Regional/?rut&=76400275K&iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no&:origin=viz_share_link
+  Ejemplo : 
   
- Ejemplo : https://tableau.redcapital.cl/views/Regional/?rut&=999999-9&iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no&:origin=viz_share_link
+  * https://tableau.redcapital.cl/views/Regional/?rut&=76400275K&iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no&:origin=viz_share_link
+  
+ *  https://tableau.redcapital.cl/views/Regional/?rut&=999999-9&iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no&:origin=viz_share_link
 
 
