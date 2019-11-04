@@ -11,9 +11,9 @@ Crear una vista  en Tableau o PowerBI con los siguientes gráficos
 
 
 Generar 
-    1 - Gráfico de Ingresos debe ser en formato ($MM)
-    2 - Gráfico de Egresos ($MM)
-    3 - Gráfico Margen Bruto (Ingresos menos Egresos)  ($MM)
+   *  1) - Gráfico de Ingresos debe ser en formato ($MM)
+   *  2) - Gráfico de Egresos ($MM)
+   *  3) - Gráfico Margen Bruto (Ingresos menos Egresos)  ($MM)
    
 --- 
 
